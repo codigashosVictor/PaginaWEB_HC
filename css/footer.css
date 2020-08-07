@@ -1,0 +1,17 @@
+.page-footer.dark {
+    background-color: #2b2f31;
+  }
+  
+  @media (min-width:576px) {
+    .page-footer {
+      text-align: left;
+    }
+  }
+  
+  .page-footer {
+    background-color: #fff;
+    padding-top: 30px;
+    text-align: center;
+  }
+  
+  
