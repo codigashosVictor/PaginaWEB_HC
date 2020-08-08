@@ -1,3 +1,7 @@
+html{
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: Arial;
   font-style: normal;
@@ -135,3 +139,5 @@ body {
   left: 0px;
   padding-top: 20px;
 }
+
+/* LINK TRANSITIONS */
